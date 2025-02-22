@@ -134,7 +134,7 @@ def mail_sender_for_due():
 
 
 # Schedule the Task to Run at 10 AM
-schedule.every().day.at("15:48").do(mail_sender_for_due)
+schedule.every().day.at("15:55").do(mail_sender_for_due)
 
 
 if __name__ == "__main__":
