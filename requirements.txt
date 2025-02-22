@@ -1,0 +1,7 @@
+Flask
+smtplib
+email
+mysql-connector-python
+pandas
+schedule
+python-dotenv
